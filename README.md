@@ -1,3 +1,15 @@
+Deskripsi : 
+Dijkstra adalah algoritma yang digunakan
+untuk mencari lintasan terpendek pada sebuah graf
+berarah. Contoh penerapan algoritma ini adalah
+lintasan terpendek yang menghubungkan antara dua
+kota berlainan tertentu. Kasus ini sering disebut
+Single-source Single Destination Shortest Path
+Problems
+
+Cara Run :
+bisa menggunakan link https://www.programiz.com/cpp-programming/online-compiler/
+
 INPUT
 
 ```
